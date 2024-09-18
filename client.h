@@ -8,6 +8,7 @@
 #include <arpa/inet.h>
 #include <chrono>
 #include <thread>
+#include <vector>
 
 class Client {
 public:
